@@ -859,6 +859,13 @@ a {
   color: var(--color-text-muted);
   margin-top: 0.25rem;
 }
+/* 추가 */
+.parking-info {
+  font-size: 0.8125rem;
+  color: var(--color-text-muted);
+  text-align: center;
+  line-height: 1.8;
+  margin-top: var(
 
 .location__copy {
   margin-bottom: var(--spacing-lg);
